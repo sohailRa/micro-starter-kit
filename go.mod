@@ -22,5 +22,5 @@ require (
 	github.com/sirupsen/logrus v1.4.2
 	github.com/stretchr/testify v1.4.0
 	github.com/thoas/go-funk v0.5.0
-	google.golang.org/genproto v0.0.0-20200128133413-58ce757ed39b
+	google.golang.org/genproto 4f3edf09f4f6
 )
